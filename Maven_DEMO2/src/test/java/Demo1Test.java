@@ -7,7 +7,6 @@ public class Demo1Test {
 	public void testApp()
 	{
 		System.out.println("Hello Team");
-		System.out.println("Bye Team");
 	}
 
 }
